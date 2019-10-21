@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Communication_received_by</name>
+   <tag></tag>
+   <elementGuidId>d7ac6bbc-6776-4366-a676-aad17fec74b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[32]/td/table/tbody/tr[2]/td[1]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[32]/td/table/tbody/tr[2]/td[1]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

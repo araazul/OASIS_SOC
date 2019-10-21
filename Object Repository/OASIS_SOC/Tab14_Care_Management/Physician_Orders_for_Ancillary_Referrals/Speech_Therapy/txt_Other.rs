@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Other</name>
+   <tag></tag>
+   <elementGuidId>64efbed4-9c92-4302-941c-4d541d68e224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[21]/td/table/tbody/tr[2]/td/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[21]/td/table/tbody/tr[2]/td/div[2]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

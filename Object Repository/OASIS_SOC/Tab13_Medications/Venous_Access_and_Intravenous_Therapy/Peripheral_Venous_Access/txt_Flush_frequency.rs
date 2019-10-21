@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Flush_frequency</name>
+   <tag></tag>
+   <elementGuidId>3619029f-f4a4-4bb9-aae2-5a0d1fffdc17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[15]/td/table/tbody/tr[9]/td/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[15]/td/table/tbody/tr[9]/td/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

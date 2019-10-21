@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Physician_Order_for_Ancillary_Referrals</name>
+   <tag></tag>
+   <elementGuidId>33ffeb8b-c6fd-478c-9b21-91229ba5ab79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[15]/td/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[15]/td/b</value>
+   </webElementProperties>
+</WebElementEntity>

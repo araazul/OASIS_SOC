@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_Automated_Peritoneal_Dialysis_(APD)</name>
+   <tag></tag>
+   <elementGuidId>9c8e9dfd-e01b-4b35-8d7e-7181569c0a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[21]/td[2]/table/tbody/tr/td/div[3]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[21]/td[2]/table/tbody/tr/td/div[3]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

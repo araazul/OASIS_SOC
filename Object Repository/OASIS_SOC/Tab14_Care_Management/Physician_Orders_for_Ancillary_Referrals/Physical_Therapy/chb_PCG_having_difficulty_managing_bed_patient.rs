@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_PCG_having_difficulty_managing_bed_patient</name>
+   <tag></tag>
+   <elementGuidId>b21a5d4b-e0e6-432f-9d07-ee8921bcafa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[17]/td/table/tbody/tr[1]/td[1]/div[2]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[17]/td/table/tbody/tr[1]/td[1]/div[2]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

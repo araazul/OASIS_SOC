@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Location</name>
+   <tag></tag>
+   <elementGuidId>852702f3-810e-4321-a433-ebb7315ec430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;adlForm&quot;]/fieldset/table/tbody/tr[2]/td[2]/table/tbody/tr[9]/td[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;adlForm&quot;]/fieldset/table/tbody/tr[2]/td[2]/table/tbody/tr[9]/td[2]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

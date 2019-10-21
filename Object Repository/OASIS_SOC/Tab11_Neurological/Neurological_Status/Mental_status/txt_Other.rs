@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Other</name>
+   <tag></tag>
+   <elementGuidId>62e4ac95-b3bd-4ecc-9268-4446a331079a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;tooltip_wr14&quot;]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;tooltip_wr14&quot;]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

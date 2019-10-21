@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_Venous_Access_and_Intravenous_Therapy</name>
+   <tag></tag>
+   <elementGuidId>786cebd2-a093-43a9-af63-0865b3973b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[11]/td/div/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[11]/td/div/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

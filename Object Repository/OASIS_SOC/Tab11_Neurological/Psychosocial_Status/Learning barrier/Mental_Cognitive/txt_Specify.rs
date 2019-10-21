@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Specify</name>
+   <tag></tag>
+   <elementGuidId>4592b616-8d32-4439-884a-6268b5f8664c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;neuroForm&quot;]/div/fieldset/table/tbody/tr[17]/td[2]/table/tbody/tr[2]/td[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;neuroForm&quot;]/div/fieldset/table/tbody/tr[17]/td[2]/table/tbody/tr[2]/td[2]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

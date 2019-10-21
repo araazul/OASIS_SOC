@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Dressing_change_frequency</name>
+   <tag></tag>
+   <elementGuidId>c94b6665-95bc-4e8e-a402-bef08d35b1db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[15]/td/table/tbody/tr[6]/td/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[15]/td/table/tbody/tr[6]/td/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

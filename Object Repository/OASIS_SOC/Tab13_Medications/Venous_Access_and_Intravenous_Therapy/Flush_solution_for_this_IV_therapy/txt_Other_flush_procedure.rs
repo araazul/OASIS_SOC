@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Other_flush_procedure</name>
+   <tag></tag>
+   <elementGuidId>7b90507d-59b8-41d0-a615-336482fa0d49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[25]/td/table/tbody/tr[3]/td/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[25]/td/table/tbody/tr[3]/td/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

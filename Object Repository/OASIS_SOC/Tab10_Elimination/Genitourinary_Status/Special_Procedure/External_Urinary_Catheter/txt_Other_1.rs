@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Other_1</name>
+   <tag></tag>
+   <elementGuidId>cd9c95be-9325-4e45-ab9d-11925e0fbedf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[15]/td[2]/table/tbody/tr[1]/td[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[15]/td[2]/table/tbody/tr[1]/td[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

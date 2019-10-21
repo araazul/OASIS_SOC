@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Yes</name>
+   <tag></tag>
+   <elementGuidId>75027b25-e75d-47bf-8443-1b602f95d797</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[5]/td[2]/table/tbody/tr/td[2]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[5]/td[2]/table/tbody/tr/td[2]/div[2]/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

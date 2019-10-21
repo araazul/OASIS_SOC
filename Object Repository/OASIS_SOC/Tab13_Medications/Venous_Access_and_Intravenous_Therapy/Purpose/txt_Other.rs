@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Other</name>
+   <tag></tag>
+   <elementGuidId>c9db2cdc-bd67-4ebd-a6b5-88faf9097a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[13]/td/table/tbody/tr[2]/td/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;medicationForm&quot;]/fieldset/table/tbody/tr[13]/td/table/tbody/tr[2]/td/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_4</name>
+   <tag></tag>
+   <elementGuidId>c3258656-3a51-4d5c-8fba-4aa9dd8448f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#M2102_CARE_TYPE_SRC_SPRVSN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#M2102_CARE_TYPE_SRC_SPRVSN</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tab12_ADLs_IADLs</name>
+   <tag></tag>
+   <comment>Muscle Strenth
+Range of Motion
+Bed Mobility
+Transfer ability
+
+
+
+
+
+
+
+
+
+
+
+
+Toileting/Hygiene
+
+Ambulation/Locomotion
+Feeding or Eating
+Has this patient
+MAHC
+Section GG
+Prior Device Use
+Mobility
+G</comment>
+   <testCaseGuid>54a2a647-a7bc-403c-b3f9-4c1128ee484b</testCaseGuid>
+</TestCaseEntity>

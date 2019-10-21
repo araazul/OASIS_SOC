@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Phone</name>
+   <tag></tag>
+   <elementGuidId>df365dcc-d2a1-46e4-8b16-abd6f44930d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[19]/td[2]/table/tbody/tr[9]/td[3]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;elimForm&quot;]/fieldset/table/tbody/tr[19]/td[2]/table/tbody/tr[9]/td[3]/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

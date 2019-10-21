@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_Knowledge_deficit_with_assistive_device_mobility</name>
+   <tag></tag>
+   <elementGuidId>09e38363-2ef0-4e15-9e16-b0ba628ade64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[17]/td/table/tbody/tr[1]/td[1]/div[4]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[17]/td/table/tbody/tr[1]/td[1]/div[4]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

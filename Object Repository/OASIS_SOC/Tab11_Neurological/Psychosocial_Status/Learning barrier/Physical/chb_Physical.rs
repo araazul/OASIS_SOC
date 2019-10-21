@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chb_Physical</name>
+   <tag></tag>
+   <elementGuidId>8aa12e9f-7c58-4ba5-b20e-4d6c76b2381c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;neuroForm&quot;]/div/fieldset/table/tbody/tr[17]/td[2]/table/tbody/tr[3]/td[1]/div/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;neuroForm&quot;]/div/fieldset/table/tbody/tr[17]/td[2]/table/tbody/tr[3]/td[1]/div/label/input</value>
+   </webElementProperties>
+</WebElementEntity>
