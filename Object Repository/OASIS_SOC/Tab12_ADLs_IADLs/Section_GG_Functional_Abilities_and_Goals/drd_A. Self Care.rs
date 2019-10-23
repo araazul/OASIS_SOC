@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#GG0100A_chosen > a</value>
+         <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[32]/td[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/div/div/div/ul/li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>css</name>
+      <name>xpath</name>
       <type>Main</type>
-      <value>#GG0100A_chosen > a</value>
+      <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[32]/td[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/div/div/div/ul/li[1]</value>
    </webElementProperties>
 </WebElementEntity>

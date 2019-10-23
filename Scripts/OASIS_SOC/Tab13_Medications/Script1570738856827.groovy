@@ -20,36 +20,32 @@ WebUI.delay(5)
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Drug_Regimen_Review/chb_0 - No'))
 //
 //WebUI.delay(3)
-//
-//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Drug_Regimen_Review/chb_Yes'))
-//
-//WebUI.delay(3)
-//
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Drug_Regimen_Review/chb_Yes'))
+
+WebUI.delay(3)
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Drug_Regimen_Review/chb_NA'))
 //
 //WebUI.delay(3)
-//
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Medication_Follow-up/chb_0 _-_No'))
 //
 //WebUI.delay(3)
-//
-//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Medication_Follow-up/chb_1_-_Yes'))
-//
-//WebUI.delay(5)
-//
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Medication_Follow-up/chb_1_-_Yes'))
+
+WebUI.delay(5)
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Patient_Caregiver_High-Risk_Drug_Education/chb_0 - No'))
 //
 //WebUI.delay(3)
-//
-//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Patient_Caregiver_High-Risk_Drug_Education/chb_1 - Yes'))
-//
-//WebUI.delay(3)
-//
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Patient_Caregiver_High-Risk_Drug_Education/chb_1 - Yes'))
+
+WebUI.delay(3)
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Patient_Caregiver_High-Risk_Drug_Education/chb_NA - Patient'))
 //
 //WebUI.delay(5)
-//
-//WebUI.comment('')
+WebUI.comment('')
+
 //
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_0 - Able_to_independently_take_the_correct_oral_medication(s)_and_proper_dosage(s)_at_the_correct_times'))
 //
@@ -58,11 +54,10 @@ WebUI.delay(5)
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_1 - Able_to_take_medication(s)_at_the_correct_times_if'))
 //
 //WebUI.delay(3)
-//
-//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_2 - Able_to_take_medication(s)'))
-//
-//WebUI.delay(3)
-//
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_2 - Able_to_take_medication(s)'))
+
+WebUI.delay(3)
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_3 - Unable_to_take_medication_unless_administered_by_another_person'))
 //
 //WebUI.delay(3)
@@ -70,9 +65,8 @@ WebUI.delay(5)
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Oral_Medications/chb_NA - No_oral_medications_prescribed'))
 //
 //WebUI.delay(5)
-//
-//WebUI.comment('')
-//
+WebUI.comment('')
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_0 - Able_to_independently_take_the_correct_medication(s)'))
 //
 //WebUI.delay(3)
@@ -80,15 +74,13 @@ WebUI.delay(5)
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_1 - Able_to_take_injectable_medication(s)_at_the_correct_times_if'))
 //
 //WebUI.delay(3)
-//
-//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_2 - Able_to_take_medication(s)'))
-//
-//WebUI.delay(3)
-//
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_2 - Able_to_take_medication(s)'))
+
+WebUI.delay(3)
+
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_3 - Unable_to_take_injectable_medication'))
 //
 //WebUI.delay(3)
-//
 //WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Management_of_Injectable_Medications/chb_NA - No_injectable_medications_prescribed'))
 //
 //WebUI.delay(5)
@@ -120,7 +112,7 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Purpose/txt_Other'), '')
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Purpose/txt_Other'), 'Maintain')
 
 WebUI.delay(3)
 
@@ -134,22 +126,21 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_18'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_20'))
-
-WebUI.delay(3)
-
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_18'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_20'))
+//
+//WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_22'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_24'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_24'))
+//
+//WebUI.delay(3)
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Catheter_size_gauge_length/chb_Other'), 
     '')
 
@@ -161,14 +152,12 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Insertion_site_location/Arm/chb_Right'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Insertion_site_location/Hand/chb_Left'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Insertion_site_location/Arm/chb_Right'))
+//
+//WebUI.delay(3)
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Insertion_site_location/Hand/chb_Left'))
+//
+//WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Insertion_site_location/Hand/chb_Right'))
 
 WebUI.delay(3)
@@ -184,12 +173,12 @@ WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intr
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/txt_IV_site_change_frequency'), 
-    '')
+    'change Frequency')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/txt_Dressing_change_frequency'), 
-    '')
+    'Dressing change')
 
 WebUI.delay(3)
 
@@ -198,17 +187,17 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/Condition_of_insertion_site/txt_WNL'), 
-    '')
+    'Yes')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/txt_Flush_solution'), 
-    '')
+    'Flush')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Peripheral_Venous_Access/txt_Flush_frequency'), 
-    '')
+    '2')
 
 WebUI.delay(6)
 
@@ -240,40 +229,38 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Number_of_lumens/chb_Double'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Number_of_lumens/chb_Triple'))
-
-WebUI.delay(3)
-
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Number_of_lumens/chb_Double'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Number_of_lumens/chb_Triple'))
+//
+//WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Peripheral/chb_Left'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Peripheral/chb_Right'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Subclavian/chb_Left'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Peripheral/chb_Right'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Subclavian/chb_Left'))
+//
+//WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Subclavian/chb_Right'))
 
 WebUI.comment('Jungular')
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Jugular/chb_Left'))
-
-WebUI.delay(2)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Jugular/chb_Left'))
+//
+//WebUI.delay(2)
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Jugular/chb_Right'))
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Jugular/txt_Other'), 
-    'keep right')
+    'keep it up')
 
 WebUI.delay(2)
 
@@ -283,7 +270,7 @@ WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intr
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/txt_Dressing_change_frequency'), 
-    'dressing change')
+    '3')
 
 WebUI.delay(3)
 
@@ -297,17 +284,17 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/Condition_of_insertion_site/txt_WNL'), 
-    '')
+    'its a Yes')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/txt_Flush_frequency'), 
-    '')
+    'Flush Frequency')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Central_Venous_Access_Device/txt_Flush_solution'), 
-    '')
+    '5')
 
 WebUI.delay(6)
 
@@ -317,15 +304,15 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/chb_Bard_port'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/chb_Power_port'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/txt_Other'))
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/chb_Bard_port'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/chb_Power_port'))
+//
+//WebUI.delay(2)
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_device/txt_Other'), 
+    'Others')
 
 WebUI.delay(2)
 
@@ -333,10 +320,9 @@ WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intrav
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_reservoir/chb_Double_chamber'))
-
-WebUI.delay(2)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Port_reservoir/chb_Double_chamber'))
+//
+//WebUI.delay(2)
 WebUI.comment('')
 
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_length/chb_0_50'))
@@ -357,59 +343,93 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_length/chb_1_50'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.comment('')
 
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_19_gauge'))
 
-WebUI.delay(4)
+WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_20_gauge'))
-
-WebUI.delay(4)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_22_gauge'))
-
-WebUI.delay(4)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_25_gauge'))
-
-WebUI.delay(4)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_20_gauge'))
+//
+//WebUI.delay(4)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_22_gauge'))
+//
+//WebUI.delay(4)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Huber_needle_gauge/chb_25_gauge'))
+//
+//WebUI.delay(4)
 WebUI.comment('')
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/txt_Implant_location'), 
-    '')
+    'Implant locations')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/txt_Date_implanted'), 
     '10/17/2019')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/txt_Dressing_change_frequency'), 
-    '')
+    '2')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Condition_of_important_site/chb_WNL'))
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/Condition_of_important_site/txt_WNL'), 
-    '')
+    'Frequency')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/txt_Flush_solution'), 
-    '')
+    'Flush Solution')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Implanted_Port_CVAD/txt_Flush_frequency'), 
-    '')
+    '3')
 
-WebUI.delay(10)
+WebUI.comment('')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Intravenous_Therapy/txt_medication'), 
+    'Medications')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Intravenous_Therapy/txt_IV_solution'), 
+    '2')
+
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Intravenous_Therapy/chb_Tolerated_IV_therapy'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/chb_Drip_method'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/chb_IV_push'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/chb_IV_pump_Brand_Model'))
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/txt_IV_pump_Brand_Model'), 
+    'Pump')
+
+WebUI.click(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/chb_IV_bulb_pump'))
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Administration_via/txt_Other'), 
+    'Others')
+
+WebUI.comment('')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Flush_solution_for_this_IV_therapy/txt_Pre-infusion_solution'), 
+    'Pre')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Flush_solution_for_this_IV_therapy/txt_Post-infusion_solution'), 
+    'Post')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab13_Medications/Venous_Access_and_Intravenous_Therapy/Flush_solution_for_this_IV_therapy/txt_Pre-infusion_solution'), 
+    'Pre')
+
+WebUI.delay(12)
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[12]/td[2]/table/tbody/tr/td/label/input</value>
+         <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[12]/td[2]/table/tbody/tr/td/label/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;careForm&quot;]/div/fieldset/table/tbody/tr[12]/td[2]/table/tbody/tr/td/label/input</value>
+      <value>/html/body/section/section/data/section/div[2]/div/div/div/div/div/div/div/fieldset/div[2]/div/div[4]/div/div[2]/div/form/fieldset/table/tbody/tr[12]/td[2]/table/tbody/tr/td/label/input</value>
    </webElementProperties>
 </WebElementEntity>

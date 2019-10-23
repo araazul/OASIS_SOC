@@ -19,43 +19,43 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Incontinence'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Stress_incontinence'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Urgency'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Frequency'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Dysuria'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Retention'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Polyuria'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Nocturia'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Oliguria_Anuria'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/chb_Hematuria'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Abnormal_status/txt_Other'), 'Abnormal Status')
 
@@ -122,6 +122,10 @@ WebUI.delay(5)
 WebUI.comment('')
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/chb_Indwelling_urinary_catheter'))
+
+WebUI.delay(3)
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/txt_Other'), 'Special Procedure')
 
 WebUI.delay(3)
 
@@ -413,6 +417,9 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Foley_catheter_size/chb_14'))
 
+WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Foley_catheter_size/txt_Other'), 
+    '')
+
 WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Catheter_lumens/chb_2_way'))
@@ -421,6 +428,9 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Balloon_inflation/chb_10ml'))
 
+WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Balloon_inflation/txt_Other'), 
+    'Balloon Inflation')
+
 WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Drainage_Bag/chb_Leg_bag'))
@@ -428,12 +438,12 @@ WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Spe
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/txt_Change_frequency'), 
-    'last change')
+    '2')
 
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/txt_Date_last_changed'), 
-    'October 10, 2019')
+    '10/10/2019')
 
 WebUI.delay(3)
 
@@ -460,7 +470,7 @@ WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Spe
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/Indwelling_Urinary_Catheter/Irrigation_frequency/txt_Every'), 
-    '3 days')
+    '3')
 
 WebUI.comment('')
 
@@ -469,8 +479,6 @@ WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Has_this_patient_been_tr
 WebUI.delay(3)
 
 not_run: WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Has_this_patient_been_treated_for_a_Urinary_Tract_Infection_in_the_past_14_days/chb_1 - Yes'))
-
-WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Genitourinary_Status/Special_Procedure/txt_Other'), 'Special Procedure')
 
 not_run: WebUI.delay(3)
 
@@ -580,9 +588,9 @@ WebUI.delay(5)
 
 WebUI.comment('')
 
-WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Stool_softener/chb_Effective'))
+not_run: WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Stool_softener/chb_Effective'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Stool_softener/chb_Not_effective'))
 
@@ -600,9 +608,23 @@ WebUI.comment('')
 
 WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Laxative_Enema_use/chb_As_needed'))
 
-WebUI.delay(3)
+not_run: WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Laxative_Enema_use/chb_Daily'))
+not_run: WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Laxative_Enema_use/chb_Daily'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/chb_Colostomy'))
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/txt_Condition_of_ostomy_site'), 
+    'Ostomy Site')
+
+WebUI.setText(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/txt_Ostomy_stool_character'), 
+    'Stool Character')
+
+WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/chb_Patient'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/chb_Caregiver'))
+
+WebUI.click(findTestObject('OASIS_SOC/Tab10_Elimination/Lower_GI_Status/Bowel_movement/Ostomy/chb_SN'))
 
 WebUI.comment('')
 

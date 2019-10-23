@@ -17,26 +17,25 @@ WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/btn_Tab14_Care_Manag
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_0'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_1'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_2'))
-
-WebUI.delay(2)
-
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_0'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_1'))
+//
+//WebUI.delay(2)
 WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_3'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_4'))
-
-WebUI.delay(2)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_3'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Types_and_Sources_of_Assistance/chb_4'))
+//
+//WebUI.delay(2)
 WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Therapy_Need/Therapy_Need'))
 
 WebUI.delay(2)
@@ -189,7 +188,7 @@ WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Physician_Orders_for
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab14_Care_Management/Physician_Orders_for_Ancillary_Referrals/MSW/txt_Need_for_community_services'), 
-    '')
+    'Community service')
 
 WebUI.delay(2)
 
@@ -198,7 +197,7 @@ WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Physician_Orders_for
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('OASIS_SOC/Tab14_Care_Management/Physician_Orders_for_Ancillary_Referrals/MSW/txt_Counseling'), 
-    '')
+    'counseling')
 
 WebUI.delay(2)
 
@@ -229,34 +228,31 @@ WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Co
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_RN_Supervisor'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_RN_LVN'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_Patient'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_PCG'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_RN_Supervisor'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_RN_LVN'))
+//
+//WebUI.delay(3)
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_Patient'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/chb_PCG'))
+//
+//WebUI.delay(3)
 WebUI.setText(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Coordination_of_Care_with/txt_Other'), 'SNV/LVN')
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Communicated_via/chb_Phone'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Communicated_via/chb_Fax'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Communicated_via/chb_Phone'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Communicated_via/chb_Fax'))
+//
+//WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Care_Coordination/Communicated_via/chb_Person_To_Person'))
 
 WebUI.delay(3)
@@ -705,22 +701,20 @@ WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_PCG'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_family_and_they_are'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_agreeable'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_not_agreeable'))
-
-WebUI.delay(3)
-
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_PCG'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_family_and_they_are'))
+//
+//WebUI.delay(3)
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_agreeable'))
+//
+//WebUI.delay(3)
+//
+//WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_not_agreeable'))
+//
+//WebUI.delay(3)
 WebUI.setText(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/txt_Patients_Goals'), 'My patient goal is to become healthy.')
 
 WebUI.delay(3)
@@ -732,12 +726,4 @@ WebUI.delay(3)
 WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_Good'))
 
 WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_Fair'))
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('OASIS_SOC/Tab14_Care_Management/Discharge_Plans/chb_Poor'))
-
-WebUI.delay(5)
 

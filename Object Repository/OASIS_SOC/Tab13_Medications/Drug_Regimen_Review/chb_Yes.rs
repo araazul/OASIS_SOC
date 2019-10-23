@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#medicationForm > fieldset > table > tbody > tr:nth-child(2) > td.oasis__answer > table > tbody > tr > td > div:nth-child(3) > label > input</value>
+         <value>#medicationForm > fieldset > table > tbody > tr:nth-child(2) > td.oasis__answer > table > tbody > tr > td > div:nth-child(2) > label > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#medicationForm > fieldset > table > tbody > tr:nth-child(2) > td.oasis__answer > table > tbody > tr > td > div:nth-child(3) > label > input</value>
+      <value>#medicationForm > fieldset > table > tbody > tr:nth-child(2) > td.oasis__answer > table > tbody > tr > td > div:nth-child(2) > label > input</value>
    </webElementProperties>
 </WebElementEntity>
